@@ -1,3 +1,11 @@
+html {
+  box-sizing: border-boxs
+}
+
+* {
+  box-sizing: inherit
+}
+
 body {
   margin: 0;
   padding: 0;
